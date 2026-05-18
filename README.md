@@ -1,6 +1,5 @@
 # DataOps ETL Pipeline — pandas + PostgreSQL + pytest + GitHub Actions
 
-![CI](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml/badge.svg)
 
 Pipeline ETL complet : **Extract → Transform (pandas) → Load (PostgreSQL)**
 
