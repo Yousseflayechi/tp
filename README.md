@@ -144,3 +144,4 @@ Le fichier `data/ventes.csv` contient **10 lignes** dont **2 intentionnellement 
 ---
 
 *Dr. Abdelhak Touiti — Université — Cours DevOps & DataOps — Jour 2*
+# tp
